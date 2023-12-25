@@ -1,0 +1,5 @@
+host = "localhost"
+user = "root"
+db = "telegram_bot"
+password = "root"
+token = "6596793844:AAFD33LVKyfdt5eTDAyJCBMz1z7QrX9gI_E"
