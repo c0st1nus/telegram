@@ -38,8 +38,9 @@ pip install -r requirements.txt
 
 В терминале выполните команду:
 
+```bash
 python bot.py
-
+```
 ## Шаг 8: Использование бота
 
 1. Откройте Telegram и найдите своего бота.
